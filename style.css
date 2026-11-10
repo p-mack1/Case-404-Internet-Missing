@@ -44,3 +44,18 @@ button {
     font-weight: bold;
     cursor: pointer;
 }
+
+button:hover {
+    filter: brightness(1.12);
+}
+
+.evidence-panel {
+    margin-top: 20px;
+    padding: 18px;
+    background: #253346;
+    border-radius: 12px;
+}
+
+#evidenceList {
+    line-height: 1.8;
+}
