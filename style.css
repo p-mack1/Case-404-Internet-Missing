@@ -27,3 +27,20 @@ h1 {
     padding: 18px;
     border-left: 5px solid #f0b85e;
 }
+
+.suspect {
+    margin-top: 20px;
+    padding: 18px;
+    background: #1b293b;
+    border-radius: 12px;
+}
+
+button {
+    padding: 12px 16px;
+    border: 0;
+    border-radius: 8px;
+    background: #f0b85e;
+    color: #172030;
+    font-weight: bold;
+    cursor: pointer;
+}
